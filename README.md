@@ -16,16 +16,17 @@ Title (Brazil): 'Voltando a Viver' ('Returning to Live')
 ```
 
 
-### Prerequisites
+### Requirements
 
 The libraries required to install for sentimental anlaysis and deployment of web app. 
 
 ```
-* numpy
-* nltk
-* torch 
-* pandas
-* matplotlib
+torch 
+pandas
+numpy
+nltk
+beautifulsoup4
+html5lib
 ```
 
 ### Installing
