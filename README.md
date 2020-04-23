@@ -34,7 +34,7 @@ html5lib
 1. Initialize AWS instance and the jupyter notebook then run SageMaker Project.ipynb
   
 ```
-ipython SageMaker Project.ipynb
+ipython SageMaker-Project.ipynb
 ```
 
 2. Then create Lambda function and API Gateway for the web app, as shown in notebook.
@@ -45,16 +45,14 @@ ipython SageMaker Project.ipynb
 
 5. Type the sentiment and click submit
 
+## Glimpse of the Web Application
+
 ![alt text](https://github.com/pr2tik1/sentiment-analysis-webApp/blob/master/sentimental-webapp.jpg?raw=true)
 
 ## Built With
 
 * [PyTorch](https://pytorch.org/) - Deep Learning Framework
 * [AWS Sagemaker](https://sagemaker.readthedocs.io/en/stable/) - Cloud Services for Machine Learning
-
-## Authors
-
-* **Pratik** - *Initial work* - [user-id](https://github.com/pr2tik1)
 
 ## Acknowledgments
 
