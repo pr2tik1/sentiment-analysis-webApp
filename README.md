@@ -44,6 +44,7 @@ ipython SageMaker Project.ipynb
 
 5. Type the sentiment and click submit
 
+![alt text](https://github.com/pr2tik1/sentiment-analysis-webApp/blob/master/sentimental-webapp.jpg?raw=true)
 
 ## Built With
 
