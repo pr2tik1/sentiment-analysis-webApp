@@ -1,6 +1,6 @@
 # SageMaker Deployment Project
 
-The notebook and Python files result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project was part of my Udacity's nanodegree course. The goal is to understand the scalable machine learning tasks using AWS sagemaker. The model used is and LSTM network.
+The notebook and Python files result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project was part of my Udacity's nanodegree course. The goal is to understand the scalable machine learning tasks using AWS sagemaker. The model uses LSTM network.
 
 ## Getting Started
 
